@@ -1,2 +1,2 @@
-# test-scripts
-6083 Scripts
+# SQL Schema
+For those who aren't confident enough to submit their SQL statements untested.
